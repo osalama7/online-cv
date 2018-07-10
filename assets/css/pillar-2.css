@@ -6317,6 +6317,7 @@ a.theme-btn-on-bg, .theme-btn-on-bg {
   color: rgba(255, 255, 255, 0.9);
   height: 220px; }
   .resume-header .picture {
+    height: 220px;
     width: 220px; }
   .resume-header .name {
     font-size: 2.25rem;

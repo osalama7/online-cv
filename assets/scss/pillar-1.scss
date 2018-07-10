@@ -253,10 +253,10 @@ a.theme-btn-on-bg, .theme-btn-on-bg {
     }
 	
 	.resume-header {
-		height: auto;
 	}
 	.resume-header .picture {
 		width: 120px;
+		height: 120px;
 		@include border-radius(4px);
 	}
 
